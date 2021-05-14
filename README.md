@@ -1,1 +1,1 @@
-# volume-calculator-GUI
+# Volume calculator - A Java GUI application
