@@ -1,1 +1,2 @@
-# Volume calculator - A Java GUI application
+# Volume calculator
+Completely pure Java application for calculating volumes for basic shapes (Cube, Cuboid & Sphere) 
